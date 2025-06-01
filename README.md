@@ -1,8 +1,8 @@
 # 🚗 Kerala Fuel Price Analysis (2024–2025)
 
-![GitHub stars](https://img.shields.io/github/stars/Sivaprasad-creator/fuel-price-trend-kerala)
-![GitHub forks](https://img.shields.io/github/forks/Sivaprasad-creator/fuel-price-trend-kerala)
-![GitHub license](https://img.shields.io/github/license/Sivaprasad-creator/fuel-price-trend-kerala)
+![GitHub stars](https://img.shields.io/github/stars/Sivaprasad-creator/Kerala-Fuel-Price-Prediction)
+![GitHub forks](https://img.shields.io/github/forks/Sivaprasad-creator/Kerala-Fuel-Price-Prediction)
+![GitHub license](https://img.shields.io/github/license/Sivaprasad-creator/Kerala-Fuel-Price-Prediction)
 
 ## 📌 Project Overview
 
