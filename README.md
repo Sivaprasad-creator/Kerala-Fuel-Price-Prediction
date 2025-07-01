@@ -4,6 +4,8 @@
 ![GitHub forks](https://img.shields.io/github/forks/Sivaprasad-creator/Kerala-Fuel-Price-Prediction)
 ![GitHub license](https://img.shields.io/github/license/Sivaprasad-creator/Kerala-Fuel-Price-Prediction)
 
+![image alt](https://github.com/Sivaprasad-creator/Kerala-Fuel-Price-Prediction/blob/077e0b8cae2146ca6ec7c34c976a8df3f5cd8eb0/petrol-pump.jpg)
+
 ## 📌 Project Overview
 
 This project presents a **comprehensive analysis of daily petrol and diesel prices** across all districts in Kerala from **January 1, 2024, to April 30, 2025**. It explores trends, detects anomalies, clusters districts based on fuel price behavior, and forecasts future prices using advanced **Machine Learning** and **Deep Learning** models.
