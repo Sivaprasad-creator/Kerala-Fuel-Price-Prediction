@@ -75,6 +75,13 @@ This project presents a **comprehensive analysis of daily petrol and diesel pric
 
 ---
 
+---
+
+## Dashboard Preview
+![image alt](https://github.com/Sivaprasad-creator/Kerala-Fuel-Price-Prediction/blob/689f9ae78027072021f9bbf40a77cc3f4dceddda/Fuel%20Dashboard.png) 
+
+---
+
 ## 🤖 Machine Learning & Deep Learning Models
 
 | Category           | Techniques                                                                 |
