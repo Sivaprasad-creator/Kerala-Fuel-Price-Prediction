@@ -131,8 +131,8 @@ This project includes a **Streamlit web app** for:
 
 **Sivaprasad T.R**  
 📧 Email: sivaprasadtrwork@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/sivaprasad-t-r  
-💻 GitHub: https://github.com/Sivaprasad-creator
+🔗 [LinkedIn](https://www.linkedin.com/in/sivaprasad-t-r)  
+💻 [GitHub](https://github.com/Sivaprasad-creator)
 
 ---
 
