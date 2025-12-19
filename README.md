@@ -103,9 +103,8 @@ This project includes a **Streamlit web app** for:
 
 ---
 
----
-
 ## Dashboard Preview
+![image alt](https://github.com/Sivaprasad-creator/Kerala-Fuel-Price-Prediction/blob/main/petrol_deployment.png)
 
 
 ## 🛠️ How to Run Locally
